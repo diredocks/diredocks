@@ -1,4 +1,6 @@
-### Hi there 👋
+### 🌲 Hi there!
+
+A Linux enthusiast, currently learning computer science.
 
 <!--
 **diredocks/diredocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
