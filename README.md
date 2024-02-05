@@ -1,6 +1,10 @@
 ### 🌲 Hi there!
 
-A Linux enthusiast, currently learning computer science.
+A Linux 🐧 enthusiast 💌, currently learning computer science,  
+Feel me to DM me with Cantonnese.
+
+鐘意用 Linux, 而家學緊計算機，  
+講粵語，講普通話都得。😌
 
 <!--
 **diredocks/diredocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
