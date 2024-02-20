@@ -1,6 +1,6 @@
-### 🌲 Hi there!
+### 🌲🐧 Hi there!
 
-A Linux 🐧 enthusiast 💌, currently learning computer science.
+A Linux enthusiast, currently learning computer science.
 
 
 <!--
