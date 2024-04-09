@@ -1,7 +1,6 @@
 ### 🌲🐧 Hi there!
 
 A Linux enthusiast, currently learning computer science.  
-电脑打字员，从小爱吃麦当劳。
 
 
 <!--
