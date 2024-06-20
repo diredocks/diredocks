@@ -1,2 +1,1 @@
-Across the Great Wall we can reach every corner in the world  
-越过长城，走向世界
+57 58 4a 6e 4a 32 59 67 55 6d 45 77 5a 57 78 6a 5a 79 45 3d
