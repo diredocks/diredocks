@@ -1,6 +1,6 @@
 `.....,__...:.....,___..:...._,._:_....,.:...._,._:...__,..___:.....,____.:_....,__...:.....,.....:_....,_..:...._,.....:__...,__...:.....,._:.....,__...:__...,___..:_....,._:.....,._:__...,____.:...._,.....:...__,_..`
 
-**he** is a *hobbyist programmer*, who also loves 80s japanese citypop and idol culture.
+amateur programmer, who also loves 80s japanese citypop and idol culture.
 
 > *散らせて　散らせて*  
 > *パッと散らせて桜吹雪のクライマックス*  
