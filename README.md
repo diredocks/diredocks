@@ -1,1 +1,1 @@
-![readme](https://raw.githubusercontent.com/diredocks/diredocks/main/readme_git.svg)
+![readme](https://raw.githubusercontent.com/diredocks/diredocks/main/readme_git.webp)
