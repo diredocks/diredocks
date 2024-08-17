@@ -1,1 +1,1 @@
-![readme](https://raw.githubusercontent.com/diredocks/diredocks/main/readme_git.webp)
+![Nixos](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
