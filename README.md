@@ -1,1 +1,1 @@
-**Acro**ss the **Gre**at **Wa**ll we can **rea**ch **eve**ry **corn**er in the **wor**ld
+I enjoy those solutions that **resolves a complex problem without** adding additional **unnecessary complexity**
