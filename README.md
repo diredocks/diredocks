@@ -1,1 +1,1 @@
-skill isuue
+skill issue
