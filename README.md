@@ -1,1 +1,1 @@
-skill issue
+`() => {}` is 🥵
